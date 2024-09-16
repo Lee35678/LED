@@ -1,6 +1,5 @@
 #include <Arduino.h>
 
-const short int LED1 = 2;
 
 void setup() {
   pinMode(LED1, OUTPUT);
